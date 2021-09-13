@@ -44,12 +44,5 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Franjcf&show_icons=true&hide_border=true" />
-
-</details>
-
 [website]: https://franjcf.github.io/
 [linkedin]: https://www.linkedin.com/in/francisco-jose-carrillo/
