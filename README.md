@@ -4,11 +4,11 @@
 
 ## I'm a Husband, Father, Programmer, and Teacher!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play basketball and play guitar / drums
+- 🔭  Launch
+- 🌱  Learn
+- 👯  Collaborate
+- 🥅  Goals:
+- ⚡ Fun fact: I love to play basketball and read about historical figures
 
 ### Languages and Tools:
 
