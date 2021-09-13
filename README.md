@@ -8,7 +8,7 @@
 - 🌱  Learn
 - 👯  Collaborate
 - 🥅  Goals:
-- ⚡ Fun fact: I love to play basketball and read about historical figures
+- ⚡ Fun fact: I love playing basketball and reading about historical figures
 
 ### Languages and Tools:
 
