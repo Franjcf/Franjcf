@@ -4,11 +4,11 @@
 
 ## I'm a Husband, Father, Programmer, and Teacher!
 
-- 🔭  Launch
-- 🌱  Learn
-- 👯  Collaborate
-- 🥅  Goals:
-- ⚡ Fun fact: I love playing basketball and reading about historical figures
+- 🔭  I just launched a first-of-its-kind open-source solver that can be used to solve multiphase flow in deformable porous media at multiple length scales. 
+- 🌱  I am currently learning about transformers and neural networks.
+- 🥅  Goals for 2021: I want to be a part of more open-source projects. 
+- 👯  Please reach out if you want to collaborate!
+- ⚡ Fun fact: I love playing basketball and reading about historical figures.
 
 ### Languages and Tools:
 
