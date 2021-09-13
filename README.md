@@ -35,11 +35,11 @@
 ### 📕 Latest Projects
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+- [Simulation of Multiphase Flow in Deformable Porous Media](https://github.com/Franjcf/hybridBiotInterFoam)
+- [Simulation of Multiphase Flow at Multiple Scales](https://github.com/Franjcf/hybridPorousInterFoam)
+- [Prediction of Stochastic Clogging Processes](https://github.com/Franjcf/Data-Science-Projects/blob/main/clogging_prediction_analysis/clogging_analysis.ipynb)
+- [Ethereum Price Prediction Using LSTMs](https://github.com/Franjcf/Data-Science-Projects/blob/main/Ethereum_price_prediction/ETH_prediction.ipynb)
+- [Feature Analysis of Trending YouTube Videos Across the USA, Great Britain, Canada and Mexico](https://github.com/Franjcf/Data-Science-Projects/blob/main/YouTube_video_trending_analysis/trending_YouTube_videos_analysis.ipynb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
