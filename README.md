@@ -29,11 +29,12 @@
 ### 📕 Latest Projects
 
 <!-- BLOG-POST-LIST:START -->
-- [Simulation of Multiphase Flow in Deformable Porous Media](https://github.com/Franjcf/hybridBiotInterFoam)
-- [Simulation of Multiphase Flow at Multiple Scales](https://github.com/Franjcf/hybridPorousInterFoam)
 - [Prediction of Stochastic Clogging Processes](https://github.com/Franjcf/Data-Science-Projects/blob/main/clogging_prediction_analysis/clogging_analysis.ipynb)
+- [English Language Translation with Transformers (Neural Networks + Attention)](https://github.com/Franjcf/Data-Science-Projects/blob/main/language_translation_transformers/Transformer.ipynb)
+- [Simulation of Multiphase Flow in Deformable Porous Media](https://github.com/Franjcf/hybridBiotInterFoam)
+- [Fine-Tuning BERT for Sentiment Analysis](https://github.com/Franjcf/Data-Science-Projects/blob/main/sentiment_analysis_BERT/sentiment_analysis_BERT.ipynb)
+- [Simulation of Multiphase Flow at Multiple Scales](https://github.com/Franjcf/hybridPorousInterFoam)
 - [Ethereum Price Prediction Using LSTMs](https://github.com/Franjcf/Data-Science-Projects/blob/main/Ethereum_price_prediction/ETH_prediction.ipynb)
-- [Feature Analysis of Trending YouTube Videos Across the USA, Great Britain, Canada and Mexico](https://github.com/Franjcf/Data-Science-Projects/blob/main/YouTube_video_trending_analysis/trending_YouTube_videos_analysis.ipynb)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me:
